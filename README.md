@@ -1,5 +1,4 @@
 # grunt-apigee-kvm
-<<<<<<< HEAD
 
 > Grunt plugin to import KVMs into Apigee. This plugin plays well with API Lifecycle Tools such as [Apigee Deploy Grunt Plugin](https://github.com/apigeecs/apigee-deploy-grunt-plugin) to propagate KVM configuration across environments and organizations.
 
@@ -112,6 +111,3 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ## Release History
 _(Nothing yet)_
-=======
-Grunt plugin to import KVMs per API proxy.
->>>>>>> 2934ee3619128ac02ce266ce16ab20a2a93ad834
